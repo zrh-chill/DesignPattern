@@ -53,6 +53,7 @@
     <Compile Include="接口隔离\Facade.cs" />
     <Compile Include="接口隔离\Mediator.cs" />
     <Compile Include="接口隔离\Proxy.cs" />
+    <Compile Include="状态变化\Memento.cs" />
     <Compile Include="状态变化\State.cs" />
   </ItemGroup>
   <ItemGroup>
